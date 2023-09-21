@@ -1,0 +1,22 @@
+.container {
+    padding: 2.5rem;
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 30px;
+    margin-bottom: 2rem;
+}
+
+.eventos-container {
+    display: flex;
+    justify-content: center;
+}
+
+.card-container {
+    max-width: 1400px;
+    flex-wrap: wrap;
+    /* justify-content: center; */
+    display: flex;
+    gap: 20px;
+}
